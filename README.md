@@ -11,6 +11,7 @@ graph how the rate fluctuates based on the mode they are in and color codes the 
 well.
 
 I. INTRODUCTION
+
 Monitoring the heart and breathing rate can help users identify how their moods correlate with
 the rate of their heart. The device aims to keep users inform how their heart rate correlates
 based on their mood and to also help users to reach a certain mode on the device. The device
